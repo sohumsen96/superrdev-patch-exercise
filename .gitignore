@@ -1,0 +1,30 @@
+# Node
+node_modules/
+dist/
+.env
+.env.local
+
+# Java / Maven
+target/
+*.class
+*.jar
+*.war
+*.log
+
+# IDE
+.idea/
+*.iml
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# H2 local files
+*.db
+*.trace.db
+*.lock.db
+.internal/
